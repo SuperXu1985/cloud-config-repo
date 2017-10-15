@@ -1,9 +1,1 @@
-spring:
-  application:
-    name: cloud-business
-eureka:
-  client:
-    service-url:
-      defaultZone: http://user:hzjk_123@peer1:8500/eureka/,http://user:hzjk_123@peer2:8501/eureka/
-  instance:
-    prefer-ip-address: true
+
