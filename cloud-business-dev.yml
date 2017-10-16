@@ -1,4 +1,4 @@
-profile: dev-1.5
+profile: dev-1.6
 spring:
   application:
     name: cloud-business
